@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#maincontainer{
+	
+text-align:center;
+width:300px; padding:20px;  background-color:#fff;  box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;;
+}
+img{
+	width:200px;max-height:250px;}
+button{
+	padding:10px;background-color:red;text-color:white; border-radius:5px;
+}
+.price{
+	margin: 10px 0;
+}
